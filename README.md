@@ -8,8 +8,6 @@ A complete guide to my Windows 11 customization – from the YASB bar to all the
 
 ---
 
-## 🖼️ Screenshot
-![My Desktop Screenshot](screenshot.png)
 
 ---
 

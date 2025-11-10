@@ -1,2 +1,3 @@
 # desktop-customisation
-A customisation of a desktop. ( CATPPUCHIN MOCHA )
+⚠️ under construction! ⚠️
+A catppuchin mocha styled rice

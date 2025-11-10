@@ -23,14 +23,12 @@ A complete guide to my Windows 11 customization – from the YASB bar to all the
 | Taskbar             | [Windhawk](#windhawk) |
 | Text Editor         | [VSCode](#vscode) |
 | Terminal            | [Windows Terminal](#windows-terminal) |
-| Browser             | [Brave](#brave) |
+| Browser             | [Zen](#zen) |
 | System Fetch        | [Fastfetch](#Fastfetch) |   
 | Shell Prompt        | [Oh My Posh](#ohmyposh) |
 | Audio Visualizer    | [Cava](#cava) |
 | Music Player        | [Spotify](#spotify) | 
 | Note Taking         | [Notesnook](#notesnook) |
-| Screen Recording    | [OBS Studio](#obsstudio) |
-| File Explorer Mod   | [ExplorerBlurMica](#ExplorerBlurMica) |
 | Other Tools         | [Extras](#extras) |
 
 Other

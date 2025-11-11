@@ -3,7 +3,7 @@
 <h3 align="center">✨ My Windows 11 Setup ✨</h3>
 
 <p align="center">
-A rice of a desktop.. ahhh soothing water!
+A rice of a desktop.. ahhh soothing water! 
 </p>
 
 ---
@@ -36,6 +36,7 @@ Others
 |---------------------|------------|
 | Colorscheme         | [Catppuccin Mocha](https://github.com/catppuccin) |
 | Font                | [JetBrainsMono Nerd Font](https://www.jetbrains.com/lp/mono/) |
+| Main profile :      | [powershell(pwsh)](https://github.com/PowerShell/PowerShell)  |
 
 
 

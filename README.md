@@ -28,7 +28,7 @@ A rice of a desktop.. ahhh soothing water! ( Note: I fixed the water )
 | Music Player        | [Spotify](https://open.spotify.com/) | 
 | Note Taking         | [Notesnook](https://github.com/streetwriters/notesnook) |
 | Other Tools         | [Extras](#extras) |
-| File Explorer       | [Files](https://github.com/files-community/Files) |
+| File Explorer       | [Files](https://github.com/files-community/Files) |, [File Explorer mods](https://github.com/Maplespe/ExplorerBlurMica)  |
 
 Others
 
@@ -37,6 +37,7 @@ Others
 | Colorscheme         | [Catppuccin Mocha](https://github.com/catppuccin) |
 | Font                | [JetBrainsMono Nerd Font](https://www.jetbrains.com/lp/mono/) |
 | Main profile :      | [powershell(pwsh)](https://github.com/PowerShell/PowerShell)  |
+| Credits :           | [sleepycathey's repos](https://www.youtube.com/@SleepyCatHey) |
 
 
 

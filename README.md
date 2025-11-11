@@ -13,7 +13,7 @@ A rice of a desktop.. ahhh soothing water! ( Note: I fixed the water )
 
 ## 📑 Table of Contents ( what i use ) 
 
-| 📚 Entry | ✨ App |
+| 📚 water | ✨ App |
 |---------------------|------------|
 | Status Bar          | [YASB](https://github.com/amnweb/yasb) |
 | Window Manager      | [GlazeWM](https://github.com/glzr-io/glazewm) |

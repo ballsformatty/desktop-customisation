@@ -29,6 +29,8 @@ A rice of a desktop.. ahhh soothing water! ( Note: I fixed the water )
 | Note Taking         | [Notesnook](https://github.com/streetwriters/notesnook) |
 | Other Tools         | [Extras](#extras) |
 | File Explorer       | [Files](https://github.com/files-community/Files) |, [File Explorer mods](https://github.com/Maplespe/ExplorerBlurMica)  |
+| Downloader          | [winget](https://github.com/microsoft/winget-cli)
+| Alt Downloader      | [npm](https://www.npmjs.com/)
 
 Others
 

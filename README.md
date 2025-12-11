@@ -4,7 +4,6 @@
 
 <p align="center">
 'A rice of a desktop.. ahhh soothing water! ( Note: I fixed the water )'
-### `By Oliver ( oil )`
 </p>
 
 ---
@@ -40,6 +39,8 @@ Others
 | Colorscheme         | [Catppuccin Mocha](https://github.com/catppuccin) |
 | Font                | [JetBrainsMono Nerd Font](https://www.jetbrains.com/lp/mono/) |
 | Main profile :      | [powershell(pwsh)](https://github.com/PowerShell/PowerShell)  |
+
+---
 
 ---
 
